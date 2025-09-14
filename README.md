@@ -42,5 +42,5 @@ A single Bash script to **install**, **manage**, and **monitor** [MTProto Proxy]
 Save the script as `mtproxy.sh` and make it executable:
 
 ```bash
-sudo curl -fsSLo /usr/local/bin/mtproxy.sh https://raw.githubusercontent.com/<YOUR_GH_USER>/<YOUR_REPO>/main/mtproxy.sh
+sudo curl -fsSLo /usr/local/bin/mtproxy.sh https://raw.githubusercontent.com/moeinrahimi1/mtproxy-installer/main/mtproxy.sh
 sudo chmod +x /usr/local/bin/mtproxy.sh
